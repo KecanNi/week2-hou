@@ -16,6 +16,7 @@
     "mymongo1610": "*"
   },
   "devDependencies": {
+    "gulp": "^4.0.0",
     "node-dev": "^3.1.3"
   }
 }
